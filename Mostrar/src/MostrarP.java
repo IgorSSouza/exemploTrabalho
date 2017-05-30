@@ -2,6 +2,10 @@
 public class MostrarP {
     
     
+ 
+    
+  
+    
     
     public void mostrarNaTela(){
         
@@ -11,6 +15,11 @@ public class MostrarP {
     public void minhaIdade(){
         
         System.out.println("19 Anos");
+    }
+    
+    public void dataDenascimento(){
+        
+        System.out.println("12/06/1956");
     }
 }
 

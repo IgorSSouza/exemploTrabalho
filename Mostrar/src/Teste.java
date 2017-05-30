@@ -8,6 +8,7 @@ public class Teste {
         
         mostrar.mostrarNaTela();
         mostrar.minhaIdade();
+        
     }
     
 }
